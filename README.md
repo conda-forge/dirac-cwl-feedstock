@@ -143,8 +143,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@aldbr](https://github.com/aldbr/)
 * [@ryuwd](https://github.com/ryuwd/)
-
-
-<!-- dummy commit to enable rerendering -->
 
