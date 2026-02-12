@@ -54,7 +54,7 @@ tests:
   - requirements:
       run:
         - pip
-        - python ${{ python_min }}
+        - python ${{ python_min }}.*
     script:
       - dirac-cwl --help
       - crypto --help
