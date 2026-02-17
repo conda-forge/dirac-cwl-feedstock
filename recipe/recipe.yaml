@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: 3.11
-  version: "1.1.1"
+  version: "1.1.2"
 
 package:
   name: dirac-cwl
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/dirac-cwl/dirac_cwl-${{ version }}.tar.gz
-  sha256: ee468e81c2a929b0769cccee766391107a8447424a01473222c748dcc7284052
+  sha256: da94f0381c49d3697136864855ccab4b9cd4b95774491303be1f5ab3a8188599
 
 build:
   number: 0
