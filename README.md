@@ -146,6 +146,3 @@ Feedstock Maintainers
 * [@aldbr](https://github.com/aldbr/)
 * [@ryuwd](https://github.com/ryuwd/)
 
-
-<!-- dummy commit to enable rerendering -->
-
